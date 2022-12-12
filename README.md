@@ -44,9 +44,10 @@ The design and implementation of a comprehensive Student Information Management 
 <h2>Note</h2>
 
 ## Screenshots
-<img src="https://github.com/sinking8/StudentPortal/blob/main/screenshots/1.PNG"/>
-<img src="https://github.com/sinking8/StudentPortal/blob/main/screenshots/2.PNG"/>
-<img src="https://github.com/sinking8/StudentPortal/blob/main/screenshots/3.PNG"/>
+<img src="https://github.com/priyadhanu14/student-portal/blob/main/screenshots/1.PNG"/>
+<img src="https://github.com/priyadhanu14/student-portal/blob/main/screenshots/2.PNG"/>
+<img src="https://github.com/priyadhanu14/student-portal/blob/main/screenshots/3.PNG"/>
 Since its a licensed software kindly reach out for further information
 
-[contact] ashwinblaze111@gmail.com
+[contact] haripriyankd14@gmail.com
+
